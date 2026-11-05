@@ -1,4 +1,4 @@
-# Trading Bot — Investigación de un sistema de trading algorítmico
+# Trading Bot — Investigación de un sistema de trading algorítmico.
 
 > **Qué es esto:** un proyecto de investigación y desarrollo para averiguar, con evidencia, si una estrategia sistemática puede tener una ventaja estadística *después* de costos, riesgos e impuestos.
 > **Qué no es:** una promesa de ingresos. El resultado correcto también puede ser "esta estrategia no es viable".
